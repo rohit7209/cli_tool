@@ -1,0 +1,95 @@
+[
+    {
+        "row": [
+            {
+                "col": "12",
+                "component": "default"
+            }
+        ]
+    },
+    {
+        "row": [
+            {
+                "col": "3",
+                "component": "default"
+            },
+            {
+                "col": "9",
+                "row": [
+                    {
+                        "row": [
+                            {
+                                "col": "8",
+                                "component": "default"
+                            },
+                            {
+                                "col": "4",
+                                "component": "square"
+                            }
+                        ]
+                    },
+                    {
+                        "row": [
+                            {
+                                "col": "12",
+                                "component": "default"
+                            }
+                        ]
+                    },
+                    {
+                        "row": [
+                            {
+                                "col": "2",
+                                "component": "square"
+                            },
+                            {
+                                "col": "2",
+                                "component": "square"
+                            },
+                            {
+                                "col": "2",
+                                "component": "square"
+                            },
+                            {
+                                "col": "2",
+                                "component": "square"
+                            },
+                            {
+                                "col": "2",
+                                "component": "square"
+                            },
+                            {
+                                "col": "2",
+                                "component": "square"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "row": [
+            {
+                "col": "4",
+                "component": "default"
+            },
+            {
+                "col": "4",
+                "component": "default"
+            },
+            {
+                "col": "4",
+                "component": "default"
+            }
+        ]
+    },
+    {
+        "row": [
+            {
+                "col": "12",
+                "component": "default"
+            }
+        ]
+    }
+]

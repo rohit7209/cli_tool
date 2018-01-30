@@ -1,0 +1,18 @@
+{
+    "default": {
+        "type": "demoImg",
+        "dimension": "1024x150",
+        "HTMLAttributes": {
+            "alt": "Image",
+            "title": "I am simple text from web api"
+        }
+    },
+    "square": {
+        "type": "demoImg",
+        "dimension": "1024x1024",
+        "HTMLAttributes": {
+            "alt": "My Image",
+            "title": "I am simple text from web api"
+        }
+    }
+}
